@@ -109,7 +109,7 @@
     <div class="music-player">
         <h2>背景音乐</h2>
         <audio controls loop>
-            <source src="音乐/好听的.mp3" type="audio/mp3">
+            <source src="music/good.mp3" type="audio/mp3">
         </audio>
     </div>
 
@@ -118,7 +118,7 @@
         <!-- 画廊项目1 -->
         <div class="gallery-item">
             <div class="image-container">
-                <img src="图片/玛修.jpg" alt="玛修">
+                <img src="image/maxiu.jpg" alt="玛修">
             </div>
             <p>这是我家玛修</p>
         </div>
@@ -126,7 +126,7 @@
         <!-- 画廊项目2 -->
         <div class="gallery-item">
             <div class="image-container">
-                <img src="图片/吾王.jpg" alt="阿尔托莉雅·潘德拉贡">
+                <img src="image/wuwang.jpg" alt="阿尔托莉雅·潘德拉贡">
             </div>
             <p>这是我家吾王</p>
         </div>
@@ -134,7 +134,7 @@
         <!-- 画廊项目3 -->
         <div class="gallery-item">
             <div class="image-container">
-                <img src="图片/北斋.jpg" alt="葛饰北斋&葛饰应为">
+                <img src="image/beizhai.jpg" alt="葛饰北斋&葛饰应为">
             </div>
             <p>这是我家北斋</p>
         </div>
